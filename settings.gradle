@@ -1,2 +1,10 @@
 rootProject.name = "GABRA"
-include ':app'
+include(":app")
+
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
