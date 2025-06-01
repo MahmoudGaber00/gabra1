@@ -21,4 +21,5 @@
     <string name="log_button_not_found">لم يتم العثور على زر %1$s</string>
     <string name="log_scroll_completed">تمت عملية التمرير بنجاح</string>
     <string name="log_click_performed">تم الضغط على زر %1$s</string>
+    <string name="accessibility_service_description">خدمة GABRA تساعدك في قبول الطلبات تلقائياً بناءً على المسافة</string>
 </resources>
