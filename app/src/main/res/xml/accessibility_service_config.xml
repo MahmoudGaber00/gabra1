@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/accessibility_service_description"
+    android:packageNames="com.mistermandob"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged"
+    android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagReportViewIds|flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:canRequestFilterKeyEvents="true"
+    android:notificationTimeout="100"
+    android:settingsActivity="com.gabra.deliverybot.SettingsActivity" />

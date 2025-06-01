@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GABRA</string>
+    <string name="toggle_service">تشغيل/إيقاف</string>
+    <string name="test_mode">وضع الاختبار</string>
+    <string name="status_stopped">الحالة: متوقف</string>
+    <string name="status_running">الحالة: يعمل</string>
+    <string name="status_paused">الحالة: متوقف مؤقتاً</string>
+    <string name="permission_title">تفعيل خدمة GABRA</string>
+    <string name="permission_message">يحتاج تطبيق GABRA إلى صلاحيات الوصول إلى الشاشة لتشغيل وظائفه. هل تريد تفعيل هذه الصلاحيات الآن؟</string>
+    <string name="permission_enable">تفعيل</string>
+    <string name="permission_cancel">إلغاء</string>
+    <string name="service_started">تم تشغيل الخدمة</string>
+    <string name="service_stopped">تم إيقاف الخدمة</string>
+    <string name="log_title">سجل العمليات</string>
+    <string name="log_order_found">تم العثور على طلب بمسافة %1$s كم</string>
+    <string name="log_order_accepted">تم قبول الطلب بنجاح</string>
+    <string name="log_order_rejected">تم رفض طلب بمسافة %1$s كم</string>
+    <string name="log_test_mode_enabled">تم تفعيل وضع الاختبار</string>
+    <string name="log_test_mode_disabled">تم تعطيل وضع الاختبار</string>
+    <string name="log_button_not_found">لم يتم العثور على زر %1$s</string>
+    <string name="log_scroll_completed">تمت عملية التمرير بنجاح</string>
+    <string name="log_click_performed">تم الضغط على زر %1$s</string>
+</resources>
